@@ -1,7 +1,4 @@
-<img  alt="Andrea Magri"  src="./assets/banner.gif" width="100%"/>
-
-<br>
-
+<img  alt="Andrea Magri"  src="./assets/banner.jpg" width="100%"/>
 
 <!--![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)-->
 
